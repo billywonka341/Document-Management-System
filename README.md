@@ -105,6 +105,16 @@ Implementing a Document Management System (DMS) offers several advantages:
      define('EMAIL_PORT', 587); // or 465 depending on your SMTP server
      ```
 
+   - Configure Auth Email in `config.php` to Delete and Upload Documents (Must):
+     ```php
+     define('auth_email', 'user@example.com'); 
+     ```
+
+   - Configure Allowed Emails in `config.php` to allow them to log in. Only these emails can be used to log in  (Must):
+     ```php
+     $allowed_emails = ['user@example.com', 'user2@example.com'];
+     ```
+
 4. **Install Dependencies**:
    - Ensure you have Composer installed. (Optional)
    - Navigate to the project directory and run:
