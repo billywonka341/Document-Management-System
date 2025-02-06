@@ -1,6 +1,6 @@
 Certainly! Here's an enhanced `README.md` file for your Document Management System project, incorporating the specified features and benefits:
 
-```markdown
+
 # Document Management System
 
 A web-based application designed to efficiently manage, store, and retrieve documents, ensuring secure access and streamlined workflows.
@@ -82,7 +82,7 @@ Implementing a Document Management System (DMS) offers several advantages:
    ```bash
    git clone https://github.com/billywonka341/Document-Management-System.git
    cd Document-Management-System
-   ```
+   
 
 2. **Set Up the Database (Not Required)**:
    - Create a MySQL database named `document_management`.
