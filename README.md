@@ -105,7 +105,7 @@ Implementing a Document Management System (DMS) offers several advantages:
      define('EMAIL_PORT', 587); // or 465 depending on your SMTP server
      ```
 
-   - Configure Auth Email in `config.php` to Delete and Upload Documents (Must):
+   - Configure Auth Email in `config.php` to allow Delete and Upload Documents for this User (Must):
      ```php
      define('auth_email', 'user@example.com'); 
      ```
