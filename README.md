@@ -91,9 +91,9 @@ Implementing a Document Management System (DMS) offers several advantages:
      mysql -u your_username -p document_management < database.sql
      ```
 
-3. **Configure the Application (Not Required)**:
+3. **Configure the Application (Only PHP Required)**:
    - Rename `config.php.example` to `config.php`.
-   - Update the database connection settings in `config.php`:
+   - Update the database connection settings in `config.php` (Not Required):
      ```php
      define('DB_SERVER', 'localhost');
      define('DB_USERNAME', 'your_username');
