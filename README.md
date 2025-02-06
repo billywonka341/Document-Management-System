@@ -1,6 +1,3 @@
-Certainly! Here's an enhanced `README.md` file for your Document Management System project, incorporating the specified features and benefits:
-
-
 # Document Management System
 
 A web-based application designed to efficiently manage, store, and retrieve documents, ensuring secure access and streamlined workflows.
