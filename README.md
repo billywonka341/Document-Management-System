@@ -165,10 +165,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, suggestions, or feedback, please open an issue in this repository or contact the project maintainer at [your-email@example.com].
+For questions, suggestions, or feedback, please open an issue in this repository or contact the project maintainer at [bilalhassan71@outlook.com].
 ```
-
-**Notes**:
-
-- Replace placeholder values (e.g., `your_username`, `your_password`, `your_email@example.com`) with actual values or instructions for users to input their own.
-- Regularly update the `README.md` to reflect any changes or additions to the project.
